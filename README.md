@@ -1,24 +1,41 @@
-# README
+# Blog Web Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a rails blog web application that allows users to create blog posts and comment
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+These instructions will get you a copy of the project up and running on your local machine to get the application up and running.
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+What things you need to install the software and how to install them
 
-* Database creation
+* ruby 2.7
 
-* Database initialization
+* rails 6.0.2
 
-* How to run the test suite
+* Linux
 
-* Services (job queues, cache servers, search engines, etc.)
+### Running the app
 
-* Deployment instructions
+You can get the app running on your system by going into the folder and running the server.
 
-* ...
+```
+cd folder
+```
+
+```
+rails server
+```
+
+## Built With
+
+* Ruby
+
+* Rails
+
+* Sqlite3
+
+## Status
+
+Completed
